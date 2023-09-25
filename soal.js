@@ -34,7 +34,7 @@
         console.log(grade);
     }
 
-    grading(90);
+    grading(-8);
 
 //loop
 // Buatlah tampilan seperti di bawah ini mengunakan loop
