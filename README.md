@@ -1,6 +1,9 @@
 # FGA-ChallangeCh1
-Challange Chapter 1 untuk Fresh Graduate Academy Binar - BackEnd Engineer
-Membuat kelas dan fungsi sederhana untuk pengurangan dan penambahan suatu value
+Challange Chapter 1 untuk Fresh Graduate Academy Binar - BackEnd Engineer.
+
+Membuat kelas dan fungsi sederhana untuk pengurangan dan penambahan suatu value.
+
+---
 
 Terdapat dua file .js
 bank_account.js berisi fungsi biasa. Jika ingin menggunakan file ini harap meng-uncomment bagian
